@@ -12,7 +12,7 @@
     "data/summary_cells.csv": "d5eb4bf199031eb9e1d19c7ede3fa3e2814f64563bfa8725b0f21884129b1605",
     "requirements-source.txt": "d10a136dace7f2f63b61417f480167de964fb1be1bb03d4db62de2feaa413f19",
     "requirements.txt": "cee1c44fccc645667c739a02cc1cda60f936b0490b96ee6307d4df05c87f6ab4",
-    "src/analyze.py": "f8dc2dcdf2c716a969cb7ae5e63f1c9d38457454a817dd4d5244a5722e0d3a9e",
+    "src/analyze.py": "632091d8876ea6e5cd2ae8a547a23571a020ffcb174dcb6678b23229d87c0292",
     "src/check_analysis.py": "1a822c7cfcc583bb77d6afc5d75072b4433ccac4b0e120b72dc350bf5ab6c9a0",
     "src/check_native.py": "ae858223af94e7374cb74ea3df2c00776e2754de20372accea23cfd2447c542a",
     "src/check_source.py": "26333bd7411b4faaa1092218098cb8d00dcfdc4cebd28a60934f5568a74c2526",
@@ -23,5 +23,17 @@
     "src/replay.py": "9ee8f6cc59e0ed1415aa929f47dea009b5c2d5edd63e00b1bc97e861c9d1d945",
     "tests/test_boundaries.py": "eea606a5717c1d43453dc16425c28d3e821674c06811f592af2e65692e06d33a"
   },
-  "qualification": "Actual source/method dependency hashes fixed before reported-rate/shrinkage comparisons. Current source values were visible during capture and reconciliation; not blinded."
+  "qualification": "Actual source/method dependency hashes fixed before reported-rate/shrinkage comparisons. Current source values were visible during capture and reconciliation; not blinded.",
+  "original_freeze_sha256": "b771fb99fd42618ab813d2f7ecfe7f9552e4e2c33825cd41b20893353ef35c46",
+  "original_comparison_freeze": "HISTORY/PLAN_FREEZE_original.json",
+  "amendment": {
+    "kind": "POST_ANALYSIS_CONTAINER_COMPATIBILITY_ONLY",
+    "timestamp_utc": "2026-10-31T04:31:22.043767+00:00",
+    "changed_dependency": "src/analyze.py",
+    "reason": "Python3.10 gzip.compress header ends02ff;Python3.12 delegates to zlib and emits020a on this platform for identical data.The new explicit GzipFile writer reproduces both existing3.10 compressed exports byte for byte on3.12.",
+    "numeric_formulas_changed": false,
+    "source_or_cohort_changed": false,
+    "existing_results_changed": false,
+    "disclosure": "Initial21-dependency freeze was committed before comparisons.One byte-container writer was amended after results;preserved original code and freeze remain inspectable.No model reselection or protected test claim."
+  }
 }

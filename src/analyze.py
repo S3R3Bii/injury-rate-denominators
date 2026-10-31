@@ -17,9 +17,14 @@ def write_csv(path, rows, fields):
     w.writeheader()
     w.writerows(rows)
     data = out.getvalue().encode()
-    path.write_bytes(
-        gzip.compress(data, mtime=0) if path.name.endswith(".gz") else data
-    )
+    if path.name.endswith(".gz"):
+        buffer = io.BytesIO()
+        # GzipFile fixes the OS header byte across supported Python versions.
+        with gzip.GzipFile(fileobj=buffer, mode="wb", filename="", mtime=0) as stream:
+            stream.write(data)
+        path.write_bytes(buffer.getvalue())
+    else:
+        path.write_bytes(data)
 
 
 def run(out):
