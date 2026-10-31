@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "finite_conditions": 445371,
+  "national_rows": 400288,
+  "cohort_rows": 46530,
+  "sufficient_cells": 45074,
+  "native_sha256": "9ea2ee5d7265cddf753d22633af17d4aaba4ab81629341462a8c9912d19a99fc",
+  "projection_sha256": "d5eb4bf199031eb9e1d19c7ede3fa3e2814f64563bfa8725b0f21884129b1605",
+  "pandas": "2.3.3",
+  "independent_method": "pandas C parser,Fraction tokens,SQLite key multiplicities and complete native cell/account reconstruction;no production imports",
+  "scope": "Current reported summary facts,not source truth,physical-establishment identity,worker risk or future accuracy."
+}
