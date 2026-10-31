@@ -1,0 +1,23 @@
+{
+  "state": "CANDIDATE_READY",
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "source_gate": "PASS_CURRENT_REPORTED_VALUES_ONLY",
+  "native_conditions": 445371,
+  "saved_source_conditions": 315540,
+  "independent_analysis_conditions": 1004148,
+  "retrospective_diagnostic_conditions": 40,
+  "authored_fixture_methods": 31,
+  "eligible_records": 46511,
+  "top_five_share": "334398720000/361383028589",
+  "original_frozen_dependencies": 21,
+  "postanalysis_packaging_amendment": "One gzip writer;original freeze/code and all numeric results preserved",
+  "isolated_replays": [
+    "3.10.11",
+    "3.12.14"
+  ],
+  "source_accuracy": "UNESTABLISHED",
+  "original_year_held_out_forecast": "UNEXECUTED",
+  "candidate_main_CI_tag_metadata": "PENDING",
+  "not_peer_reviewed": true
+}

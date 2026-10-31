@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "finite_conditions": 415,
+  "used_numeric_bindings": 88,
+  "pages": 6,
+  "scope_files": 5,
+  "scope": "Used source bindings, complete stratum/diagnostic PDF tables, preserved original freeze and unchanged numerical AST, current output and figure hashes, two replay receipts, all rendered pages and approved independent publication scope. Finite evidence, not universal correctness."
+}

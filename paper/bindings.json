@@ -1,0 +1,1056 @@
+[
+  {
+    "name": "BoundA",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "share_of_hours"
+    ],
+    "query": {
+      "top_records": "5"
+    },
+    "operation": "percent2",
+    "display": "92.53"
+  },
+  {
+    "name": "BoundB",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "top_cases"
+    ],
+    "query": {
+      "top_records": "5"
+    },
+    "operation": "commas",
+    "display": "1"
+  },
+  {
+    "name": "BoundC",
+    "file": "results/summary.json",
+    "field": [
+      "total_cases"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "115,164"
+  },
+  {
+    "name": "BoundD",
+    "file": "results/summary.json",
+    "field": [
+      "total_hours"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "361,383,028,589"
+  },
+  {
+    "name": "BoundE",
+    "file": "results/summary.json",
+    "field": [
+      "pooled_rate"
+    ],
+    "query": null,
+    "operation": "decimal6",
+    "display": "0.063735"
+  },
+  {
+    "name": "BoundF",
+    "file": "results/summary.json",
+    "field": [
+      "national_rows"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "400,288"
+  },
+  {
+    "name": "BoundG",
+    "file": "results/summary.json",
+    "field": [
+      "cohort_rows"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "46,530"
+  },
+  {
+    "name": "BoundH",
+    "file": "results/summary.json",
+    "field": [
+      "eligible_records"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "46,511"
+  },
+  {
+    "name": "BoundI",
+    "file": "results/summary.json",
+    "field": [
+      "nonpositive_exposure_records"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "19"
+  },
+  {
+    "name": "BoundJ",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "3,571"
+  },
+  {
+    "name": "BoundK",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "unavailable_records"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundL",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "zero_case_records"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "1,257"
+  },
+  {
+    "name": "BoundM",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "total_cases"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "6,662"
+  },
+  {
+    "name": "BoundN",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "pooled_raw_rate"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "20-99"
+    },
+    "operation": "decimal3",
+    "display": "0.258"
+  },
+  {
+    "name": "BoundO",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "2,203"
+  },
+  {
+    "name": "BoundP",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "unavailable_records"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "1"
+  },
+  {
+    "name": "BoundQ",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "zero_case_records"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "194"
+  },
+  {
+    "name": "BoundR",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "total_cases"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "13,386"
+  },
+  {
+    "name": "BoundS",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "pooled_raw_rate"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "100-249"
+    },
+    "operation": "decimal3",
+    "display": "0.268"
+  },
+  {
+    "name": "BoundT",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "476"
+  },
+  {
+    "name": "BoundU",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "unavailable_records"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundV",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "zero_case_records"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "135"
+  },
+  {
+    "name": "BoundW",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "total_cases"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "1,211"
+  },
+  {
+    "name": "BoundX",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "pooled_raw_rate"
+    ],
+    "query": {
+      "industry": "31",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "decimal3",
+    "display": "2.908"
+  },
+  {
+    "name": "BoundY",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "9,637"
+  },
+  {
+    "name": "BoundZ",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "unavailable_records"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "11"
+  },
+  {
+    "name": "BoundAA",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "zero_case_records"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "3,754"
+  },
+  {
+    "name": "BoundAB",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "total_cases"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "15,339"
+  },
+  {
+    "name": "BoundAC",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "pooled_raw_rate"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "20-99"
+    },
+    "operation": "decimal3",
+    "display": "2.423"
+  },
+  {
+    "name": "BoundAD",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "4,073"
+  },
+  {
+    "name": "BoundAE",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "unavailable_records"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundAF",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "zero_case_records"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "650"
+  },
+  {
+    "name": "BoundAG",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "total_cases"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "17,060"
+  },
+  {
+    "name": "BoundAH",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "pooled_raw_rate"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "100-249"
+    },
+    "operation": "decimal3",
+    "display": "2.109"
+  },
+  {
+    "name": "BoundAI",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "2,961"
+  },
+  {
+    "name": "BoundAJ",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "unavailable_records"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "1"
+  },
+  {
+    "name": "BoundAK",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "zero_case_records"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "1,161"
+  },
+  {
+    "name": "BoundAL",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "total_cases"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "5,536"
+  },
+  {
+    "name": "BoundAM",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "pooled_raw_rate"
+    ],
+    "query": {
+      "industry": "32",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "decimal3",
+    "display": "0.003"
+  },
+  {
+    "name": "BoundAN",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "13,654"
+  },
+  {
+    "name": "BoundAO",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "unavailable_records"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundAP",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "zero_case_records"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "5,515"
+  },
+  {
+    "name": "BoundAQ",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "total_cases"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "20-99"
+    },
+    "operation": "commas",
+    "display": "22,368"
+  },
+  {
+    "name": "BoundAR",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "pooled_raw_rate"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "20-99"
+    },
+    "operation": "decimal3",
+    "display": "1.296"
+  },
+  {
+    "name": "BoundAS",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "6,122"
+  },
+  {
+    "name": "BoundAT",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "unavailable_records"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundAU",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "zero_case_records"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "1,000"
+  },
+  {
+    "name": "BoundAV",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "total_cases"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "100-249"
+    },
+    "operation": "commas",
+    "display": "26,366"
+  },
+  {
+    "name": "BoundAW",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "pooled_raw_rate"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "100-249"
+    },
+    "operation": "decimal3",
+    "display": "2.160"
+  },
+  {
+    "name": "BoundAX",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "3,814"
+  },
+  {
+    "name": "BoundAY",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "unavailable_records"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAZ",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "zero_case_records"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "1,551"
+  },
+  {
+    "name": "BoundBA",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "total_cases"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "commas",
+    "display": "7,236"
+  },
+  {
+    "name": "BoundBB",
+    "file": "results/stratum_accounts.csv",
+    "field": [
+      "pooled_raw_rate"
+    ],
+    "query": {
+      "industry": "33",
+      "size_class": "20-249 unsplit"
+    },
+    "operation": "decimal3",
+    "display": "1.958"
+  },
+  {
+    "name": "BoundBC",
+    "file": "results/summary.json",
+    "field": [
+      "raw_above_twice_pooled_mean"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "31,183"
+  },
+  {
+    "name": "BoundBD",
+    "file": "results/summary.json",
+    "field": [
+      "high_to_low",
+      "1/10"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundBE",
+    "file": "results/summary.json",
+    "field": [
+      "high_to_low",
+      "1"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "BoundBF",
+    "file": "results/summary.json",
+    "field": [
+      "high_to_low",
+      "10"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "55"
+  },
+  {
+    "name": "BoundBG",
+    "file": "results/summary.json",
+    "field": [
+      "sensitivity_cases"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "27"
+  },
+  {
+    "name": "BoundBH",
+    "file": "results/summary.json",
+    "field": [
+      "cell_strength_cases"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "135,204"
+  },
+  {
+    "name": "BoundBI",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "top_cases"
+    ],
+    "query": {
+      "top_records": "1"
+    },
+    "operation": "commas",
+    "display": "1"
+  },
+  {
+    "name": "BoundBJ",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "share_of_hours"
+    ],
+    "query": {
+      "top_records": "1"
+    },
+    "operation": "percent2",
+    "display": "38.78"
+  },
+  {
+    "name": "BoundBK",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "remaining_hours"
+    ],
+    "query": {
+      "top_records": "1"
+    },
+    "operation": "commas",
+    "display": "221,241,028,589"
+  },
+  {
+    "name": "BoundBL",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "conditional_remaining_rate"
+    ],
+    "query": {
+      "top_records": "1"
+    },
+    "operation": "decimal3",
+    "display": "0.104"
+  },
+  {
+    "name": "BoundBM",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "top_cases"
+    ],
+    "query": {
+      "top_records": "5"
+    },
+    "operation": "commas",
+    "display": "1"
+  },
+  {
+    "name": "BoundBN",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "share_of_hours"
+    ],
+    "query": {
+      "top_records": "5"
+    },
+    "operation": "percent2",
+    "display": "92.53"
+  },
+  {
+    "name": "BoundBO",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "remaining_hours"
+    ],
+    "query": {
+      "top_records": "5"
+    },
+    "operation": "commas",
+    "display": "26,984,308,589"
+  },
+  {
+    "name": "BoundBP",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "conditional_remaining_rate"
+    ],
+    "query": {
+      "top_records": "5"
+    },
+    "operation": "decimal3",
+    "display": "0.854"
+  },
+  {
+    "name": "BoundBQ",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "top_cases"
+    ],
+    "query": {
+      "top_records": "10"
+    },
+    "operation": "commas",
+    "display": "10"
+  },
+  {
+    "name": "BoundBR",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "share_of_hours"
+    ],
+    "query": {
+      "top_records": "10"
+    },
+    "operation": "percent2",
+    "display": "95.86"
+  },
+  {
+    "name": "BoundBS",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "remaining_hours"
+    ],
+    "query": {
+      "top_records": "10"
+    },
+    "operation": "commas",
+    "display": "14,978,817,537"
+  },
+  {
+    "name": "BoundBT",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "conditional_remaining_rate"
+    ],
+    "query": {
+      "top_records": "10"
+    },
+    "operation": "decimal3",
+    "display": "1.538"
+  },
+  {
+    "name": "BoundBU",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "top_cases"
+    ],
+    "query": {
+      "top_records": "100"
+    },
+    "operation": "commas",
+    "display": "599"
+  },
+  {
+    "name": "BoundBV",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "share_of_hours"
+    ],
+    "query": {
+      "top_records": "100"
+    },
+    "operation": "percent2",
+    "display": "97.83"
+  },
+  {
+    "name": "BoundBW",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "remaining_hours"
+    ],
+    "query": {
+      "top_records": "100"
+    },
+    "operation": "commas",
+    "display": "7,843,757,569"
+  },
+  {
+    "name": "BoundBX",
+    "file": "results/exposure_concentration.csv",
+    "field": [
+      "conditional_remaining_rate"
+    ],
+    "query": {
+      "top_records": "100"
+    },
+    "operation": "decimal3",
+    "display": "2.921"
+  },
+  {
+    "name": "BoundBY",
+    "file": "results/exposure_diagnostic.json",
+    "field": [
+      "maximum_single_record_hours"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "140,142,000,000"
+  },
+  {
+    "name": "BoundBZ",
+    "file": "results/summary.json",
+    "field": [
+      "zero_case_records"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "15,217"
+  },
+  {
+    "name": "BoundCA",
+    "file": "results/verification.json",
+    "field": [
+      "native_source_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "445,371"
+  },
+  {
+    "name": "BoundCB",
+    "file": "results/verification.json",
+    "field": [
+      "saved_source_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "315,540"
+  },
+  {
+    "name": "BoundCC",
+    "file": "results/verification.json",
+    "field": [
+      "independent_analysis_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "1,004,148"
+  },
+  {
+    "name": "BoundCD",
+    "file": "results/verification.json",
+    "field": [
+      "diagnostic_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "40"
+  },
+  {
+    "name": "BoundCE",
+    "file": "results/verification.json",
+    "field": [
+      "original_frozen_dependencies"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "21"
+  },
+  {
+    "name": "BoundCF",
+    "file": "results/reproduction_cpython310.json",
+    "field": [
+      "python"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "3.10.11"
+  },
+  {
+    "name": "BoundCG",
+    "file": "results/reproduction_cpython312.json",
+    "field": [
+      "python"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "3.12.14"
+  },
+  {
+    "name": "BoundCH",
+    "file": "results/verification.json",
+    "field": [
+      "authored_fixture_methods"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "31"
+  },
+  {
+    "name": "BoundCI",
+    "file": "figures/verification.json",
+    "field": [
+      "source_bound_artists"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "62"
+  },
+  {
+    "name": "BoundCJ",
+    "file": "figures/verification.json",
+    "field": [
+      "svg_coordinate_conditions"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "248"
+  }
+]
