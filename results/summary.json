@@ -1,0 +1,33 @@
+{
+  "national_rows": 400288,
+  "cohort_rows": 46530,
+  "eligible_records": 46511,
+  "eligible_source_cells": 45068,
+  "nonpositive_exposure_records": 19,
+  "total_cases": 115164,
+  "total_hours": "361383028589",
+  "pooled_rate": "23032800000/361383028589",
+  "zero_case_records": 15217,
+  "raw_above_twice_pooled_mean": 31183,
+  "strata": 9,
+  "sensitivity_cases": 27,
+  "cell_strength_cases": 135204,
+  "working_model": "AVAILABLE_DESCRIPTIVE_ONLY",
+  "strengths": [
+    "1/10",
+    "1",
+    "10"
+  ],
+  "high_to_low": {
+    "1/10": 0,
+    "1": 2,
+    "10": 55
+  },
+  "low_to_high": {
+    "1/10": 0,
+    "1": 0,
+    "10": 0
+  },
+  "original_year_held_out_forecast": "UNEXECUTED",
+  "qualification": "Same-cohort-centered descriptive Gamma-Poisson sensitivity;authored strengths and two-times boundary;no selected winner,safety ranking,prediction-time features or future-risk accuracy."
+}

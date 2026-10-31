@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "finite_conditions": 1004148,
+  "strata": 9,
+  "sensitivity_cases": 27,
+  "complete_cell_strength_cases": 135204,
+  "zero_count_cells": 14378,
+  "examples": 7,
+  "method": "Independent SQLite weighted source aggregates,direct Fraction algebra,integer half-even rounding and ln20 bounds;no production imports",
+  "scope": "Finite descriptive model/threshold sensitivity and complete source counts;not empirical interval calibration,future accuracy or safety validity."
+}
