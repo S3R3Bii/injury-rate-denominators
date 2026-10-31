@@ -1,0 +1,9 @@
+{
+  "scope": "RETROSPECTIVE_DIAGNOSTIC",
+  "trigger": "After the frozen comparison exposed a361383028589-hour total and a dominant industry32/unsplit-size stratum.",
+  "source_changed": false,
+  "model_or_strength_selected": false,
+  "full_cohort_rate": "23032800000/361383028589",
+  "maximum_single_record_hours": "140142000000",
+  "qualification": "All four top-k cases retained.No source correction,cleaned dataset,empirical prior validation or representative worker risk is claimed.Conditional remaining rates are labeled retrospective accounting diagnostics,not replacement estimates."
+}
