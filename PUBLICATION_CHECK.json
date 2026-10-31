@@ -1,12 +1,13 @@
 {
-  "timestamp_utc": "2026-10-31T04:31:24.471460+00:00",
+  "timestamp_utc": "2026-10-31T04:32:01.911817+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 42,
+  "files_checked": 43,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
     ".gitignore": "63c4fa9e9b0f9a9603478319c3cf671b6cb6a1b22d12390ab149324eff007cf6",
-    "COMPATIBILITY_NOTE.md": "07f6ee861b01d54432208458b37e42fd9034ebd26dc5fdcd6bd9c1c8f4a3e19c",
+    "COMPATIBILITY_NOTE.md": "e3a12a334b6615479085378ae34add307e344b0e98960b41646ede4631075ff9",
     "DATA_RIGHTS.md": "b3e169b2954440917f2f59ee84398f6f0cfa9936d5e2a9c3a10dc54dc86578df",
     "EXPOSURE_DIAGNOSTIC_PLAN.md": "99f174fde528e14f164fde7ad50d8a6dde134fec13ae7edf511eefb1350e958f",
     "HISTORY/PLAN_FREEZE_original.json": "b771fb99fd42618ab813d2f7ecfe7f9552e4e2c33825cd41b20893353ef35c46",
