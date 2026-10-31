@@ -1,0 +1,1849 @@
+[
+  {
+    "name": "exposure_concentration",
+    "artists": [
+      {
+        "gid": "source-0-0",
+        "file": "results/exposure_concentration.csv",
+        "field": "share_of_hours",
+        "query": {
+          "top_records": "1"
+        },
+        "operation": "percent",
+        "value": 38.77935290629908,
+        "position": 0,
+        "thickness": 0.6,
+        "orientation": "vertical",
+        "label": "38.78%",
+        "axis_points": {
+          "left": 69.12,
+          "top": 116.64000000000001,
+          "width": 322.1694915254237,
+          "height": 233.28000000000003,
+          "xlim": [
+            -0.48,
+            3.4800000000000004
+          ],
+          "ylim": [
+            0.0,
+            110.0
+          ]
+        }
+      },
+      {
+        "gid": "source-0-1",
+        "file": "results/exposure_concentration.csv",
+        "field": "share_of_hours",
+        "query": {
+          "top_records": "5"
+        },
+        "operation": "percent",
+        "value": 92.53304487087877,
+        "position": 1,
+        "thickness": 0.6,
+        "orientation": "vertical",
+        "label": "92.53%",
+        "axis_points": {
+          "left": 69.12,
+          "top": 116.64000000000001,
+          "width": 322.1694915254237,
+          "height": 233.28000000000003,
+          "xlim": [
+            -0.48,
+            3.4800000000000004
+          ],
+          "ylim": [
+            0.0,
+            110.0
+          ]
+        }
+      },
+      {
+        "gid": "source-0-2",
+        "file": "results/exposure_concentration.csv",
+        "field": "share_of_hours",
+        "query": {
+          "top_records": "10"
+        },
+        "operation": "percent",
+        "value": 95.8551408472379,
+        "position": 2,
+        "thickness": 0.6,
+        "orientation": "vertical",
+        "label": "95.86%",
+        "axis_points": {
+          "left": 69.12,
+          "top": 116.64000000000001,
+          "width": 322.1694915254237,
+          "height": 233.28000000000003,
+          "xlim": [
+            -0.48,
+            3.4800000000000004
+          ],
+          "ylim": [
+            0.0,
+            110.0
+          ]
+        }
+      },
+      {
+        "gid": "source-0-3",
+        "file": "results/exposure_concentration.csv",
+        "field": "share_of_hours",
+        "query": {
+          "top_records": "100"
+        },
+        "operation": "percent",
+        "value": 97.82951689800555,
+        "position": 3,
+        "thickness": 0.6,
+        "orientation": "vertical",
+        "label": "97.83%",
+        "axis_points": {
+          "left": 69.12,
+          "top": 116.64000000000001,
+          "width": 322.1694915254237,
+          "height": 233.28000000000003,
+          "xlim": [
+            -0.48,
+            3.4800000000000004
+          ],
+          "ylim": [
+            0.0,
+            110.0
+          ]
+        }
+      },
+      {
+        "gid": "source-0-4",
+        "file": "results/exposure_concentration.csv",
+        "field": "conditional_remaining_rate",
+        "query": {
+          "top_records": "1"
+        },
+        "operation": "value",
+        "value": 0.1041063682757854,
+        "position": 0,
+        "thickness": 0.6,
+        "orientation": "vertical",
+        "label": "0.104",
+        "axis_points": {
+          "left": 507.2705084745762,
+          "top": 116.64000000000001,
+          "width": 322.1694915254237,
+          "height": 233.28000000000003,
+          "xlim": [
+            -0.48,
+            3.4800000000000004
+          ],
+          "ylim": [
+            0.0,
+            3.5930470507380874
+          ]
+        }
+      },
+      {
+        "gid": "source-0-5",
+        "file": "results/exposure_concentration.csv",
+        "field": "conditional_remaining_rate",
+        "query": {
+          "top_records": "5"
+        },
+        "operation": "value",
+        "value": 0.8535553143425401,
+        "position": 1,
+        "thickness": 0.6,
+        "orientation": "vertical",
+        "label": "0.854",
+        "axis_points": {
+          "left": 507.2705084745762,
+          "top": 116.64000000000001,
+          "width": 322.1694915254237,
+          "height": 233.28000000000003,
+          "xlim": [
+            -0.48,
+            3.4800000000000004
+          ],
+          "ylim": [
+            0.0,
+            3.5930470507380874
+          ]
+        }
+      },
+      {
+        "gid": "source-0-6",
+        "file": "results/exposure_concentration.csv",
+        "field": "conditional_remaining_rate",
+        "query": {
+          "top_records": "10"
+        },
+        "operation": "value",
+        "value": 1.5375579509604385,
+        "position": 2,
+        "thickness": 0.6,
+        "orientation": "vertical",
+        "label": "1.538",
+        "axis_points": {
+          "left": 507.2705084745762,
+          "top": 116.64000000000001,
+          "width": 322.1694915254237,
+          "height": 233.28000000000003,
+          "xlim": [
+            -0.48,
+            3.4800000000000004
+          ],
+          "ylim": [
+            0.0,
+            3.5930470507380874
+          ]
+        }
+      },
+      {
+        "gid": "source-0-7",
+        "file": "results/exposure_concentration.csv",
+        "field": "conditional_remaining_rate",
+        "query": {
+          "top_records": "100"
+        },
+        "operation": "value",
+        "value": 2.9211764640147053,
+        "position": 3,
+        "thickness": 0.6,
+        "orientation": "vertical",
+        "label": "2.921",
+        "axis_points": {
+          "left": 507.2705084745762,
+          "top": 116.64000000000001,
+          "width": 322.1694915254237,
+          "height": 233.28000000000003,
+          "xlim": [
+            -0.48,
+            3.4800000000000004
+          ],
+          "ylim": [
+            0.0,
+            3.5930470507380874
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "cd5fe5335cc981888f627c23ddd1c75073172b8adde5443860b7b824a4418451",
+      "svg": "f07c2f5176f283762014eb870208899958ef74ec6f0e2332467c7f81819a55b6",
+      "pdf": "e76cfcdaeeff15244cdd96d3c171dd090d7cbb0b7ead58a728ee604b1dde8fe0"
+    }
+  },
+  {
+    "name": "smoothing_sensitivity",
+    "artists": [
+      {
+        "gid": "source-1-0",
+        "file": "results/stratum_accounts.csv",
+        "field": "raw_above_twice_mean",
+        "query": {
+          "industry": "31",
+          "size_class": "20-99"
+        },
+        "operation": "value",
+        "value": 2301.0,
+        "position": 0,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "2,301",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            9892.98
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-1-1",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "31",
+          "size_class": "20-99",
+          "strength": "1/10"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": -0.24,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-2",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "31",
+          "size_class": "20-99",
+          "strength": "1"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 0.0,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-3",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "31",
+          "size_class": "20-99",
+          "strength": "10"
+        },
+        "operation": "value",
+        "value": 2.0,
+        "position": 0.24,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "2",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-4",
+        "file": "results/stratum_accounts.csv",
+        "field": "raw_above_twice_mean",
+        "query": {
+          "industry": "31",
+          "size_class": "100-249"
+        },
+        "operation": "value",
+        "value": 1997.0,
+        "position": 1,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "1,997",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            9892.98
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-1-5",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "31",
+          "size_class": "100-249",
+          "strength": "1/10"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 0.76,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-6",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "31",
+          "size_class": "100-249",
+          "strength": "1"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 1.0,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-7",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "31",
+          "size_class": "100-249",
+          "strength": "10"
+        },
+        "operation": "value",
+        "value": 7.0,
+        "position": 1.24,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "7",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-8",
+        "file": "results/stratum_accounts.csv",
+        "field": "raw_above_twice_mean",
+        "query": {
+          "industry": "31",
+          "size_class": "20-249 unsplit"
+        },
+        "operation": "value",
+        "value": 341.0,
+        "position": 2,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "341",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            9892.98
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-1-9",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "31",
+          "size_class": "20-249 unsplit",
+          "strength": "1/10"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 1.76,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-10",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "31",
+          "size_class": "20-249 unsplit",
+          "strength": "1"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 2.0,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-11",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "31",
+          "size_class": "20-249 unsplit",
+          "strength": "10"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 2.24,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-12",
+        "file": "results/stratum_accounts.csv",
+        "field": "raw_above_twice_mean",
+        "query": {
+          "industry": "32",
+          "size_class": "20-99"
+        },
+        "operation": "value",
+        "value": 5869.0,
+        "position": 3,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "5,869",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            9892.98
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-1-13",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "32",
+          "size_class": "20-99",
+          "strength": "1/10"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 2.76,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-14",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "32",
+          "size_class": "20-99",
+          "strength": "1"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 3.0,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-15",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "32",
+          "size_class": "20-99",
+          "strength": "10"
+        },
+        "operation": "value",
+        "value": 4.0,
+        "position": 3.24,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "4",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-16",
+        "file": "results/stratum_accounts.csv",
+        "field": "raw_above_twice_mean",
+        "query": {
+          "industry": "32",
+          "size_class": "100-249"
+        },
+        "operation": "value",
+        "value": 3413.0,
+        "position": 4,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "3,413",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            9892.98
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-1-17",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "32",
+          "size_class": "100-249",
+          "strength": "1/10"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 3.76,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-18",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "32",
+          "size_class": "100-249",
+          "strength": "1"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 4.0,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-19",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "32",
+          "size_class": "100-249",
+          "strength": "10"
+        },
+        "operation": "value",
+        "value": 12.0,
+        "position": 4.24,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "12",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-20",
+        "file": "results/stratum_accounts.csv",
+        "field": "raw_above_twice_mean",
+        "query": {
+          "industry": "32",
+          "size_class": "20-249 unsplit"
+        },
+        "operation": "value",
+        "value": 1794.0,
+        "position": 5,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "1,794",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            9892.98
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-1-21",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "32",
+          "size_class": "20-249 unsplit",
+          "strength": "1/10"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 4.76,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-22",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "32",
+          "size_class": "20-249 unsplit",
+          "strength": "1"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 5.0,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-23",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "32",
+          "size_class": "20-249 unsplit",
+          "strength": "10"
+        },
+        "operation": "value",
+        "value": 5.0,
+        "position": 5.24,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "5",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-24",
+        "file": "results/stratum_accounts.csv",
+        "field": "raw_above_twice_mean",
+        "query": {
+          "industry": "33",
+          "size_class": "20-99"
+        },
+        "operation": "value",
+        "value": 8109.0,
+        "position": 6,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "8,109",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            9892.98
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-1-25",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "33",
+          "size_class": "20-99",
+          "strength": "1/10"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 5.76,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-26",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "33",
+          "size_class": "20-99",
+          "strength": "1"
+        },
+        "operation": "value",
+        "value": 1.0,
+        "position": 6.0,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "1",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-27",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "33",
+          "size_class": "20-99",
+          "strength": "10"
+        },
+        "operation": "value",
+        "value": 3.0,
+        "position": 6.24,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "3",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-28",
+        "file": "results/stratum_accounts.csv",
+        "field": "raw_above_twice_mean",
+        "query": {
+          "industry": "33",
+          "size_class": "100-249"
+        },
+        "operation": "value",
+        "value": 5100.0,
+        "position": 7,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "5,100",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            9892.98
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-1-29",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "33",
+          "size_class": "100-249",
+          "strength": "1/10"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 6.76,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-30",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "33",
+          "size_class": "100-249",
+          "strength": "1"
+        },
+        "operation": "value",
+        "value": 1.0,
+        "position": 7.0,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "1",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-31",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "33",
+          "size_class": "100-249",
+          "strength": "10"
+        },
+        "operation": "value",
+        "value": 12.0,
+        "position": 7.24,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "12",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-32",
+        "file": "results/stratum_accounts.csv",
+        "field": "raw_above_twice_mean",
+        "query": {
+          "industry": "33",
+          "size_class": "20-249 unsplit"
+        },
+        "operation": "value",
+        "value": 2259.0,
+        "position": 8,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "2,259",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            9892.98
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-1-33",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "33",
+          "size_class": "20-249 unsplit",
+          "strength": "1/10"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 7.76,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-34",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "33",
+          "size_class": "20-249 unsplit",
+          "strength": "1"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 8.0,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      },
+      {
+        "gid": "source-1-35",
+        "file": "results/sensitivity_accounts.csv",
+        "field": "high_to_low",
+        "query": {
+          "industry": "33",
+          "size_class": "20-249 unsplit",
+          "strength": "10"
+        },
+        "operation": "value",
+        "value": 10.0,
+        "position": 8.24,
+        "thickness": 0.22,
+        "orientation": "horizontal",
+        "label": "10",
+        "axis_points": {
+          "left": 551.232,
+          "top": 120.96,
+          "width": 269.5679999999999,
+          "height": 317.52,
+          "xlim": [
+            0.0,
+            16.799999999999997
+          ],
+          "ylim": [
+            8.785,
+            -0.7849999999999999
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "d1ee110f4232edd5b4690584429923e2832f31b17704d89c45c6f85c84bdc5aa",
+      "svg": "4d0fb0fd76afaa9d960372b43c517c663b1bc61b9f2f5f59b251445812dd14f4",
+      "pdf": "7502ededb60583c7df47b469c6d74f0c0e7b67c116d09f256f25344b100c1076"
+    }
+  },
+  {
+    "name": "source_denominators",
+    "artists": [
+      {
+        "gid": "source-2-0",
+        "file": "results/stratum_accounts.csv",
+        "field": "eligible_records",
+        "query": {
+          "industry": "31",
+          "size_class": "20-99"
+        },
+        "operation": "value",
+        "value": 3571.0,
+        "position": 0,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "3,571",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            17067.5
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-1",
+        "file": "results/stratum_accounts.csv",
+        "field": "eligible_records",
+        "query": {
+          "industry": "31",
+          "size_class": "100-249"
+        },
+        "operation": "value",
+        "value": 2203.0,
+        "position": 1,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "2,203",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            17067.5
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-2",
+        "file": "results/stratum_accounts.csv",
+        "field": "eligible_records",
+        "query": {
+          "industry": "31",
+          "size_class": "20-249 unsplit"
+        },
+        "operation": "value",
+        "value": 476.0,
+        "position": 2,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "476",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            17067.5
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-3",
+        "file": "results/stratum_accounts.csv",
+        "field": "eligible_records",
+        "query": {
+          "industry": "32",
+          "size_class": "20-99"
+        },
+        "operation": "value",
+        "value": 9637.0,
+        "position": 3,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "9,637",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            17067.5
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-4",
+        "file": "results/stratum_accounts.csv",
+        "field": "eligible_records",
+        "query": {
+          "industry": "32",
+          "size_class": "100-249"
+        },
+        "operation": "value",
+        "value": 4073.0,
+        "position": 4,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "4,073",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            17067.5
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-5",
+        "file": "results/stratum_accounts.csv",
+        "field": "eligible_records",
+        "query": {
+          "industry": "32",
+          "size_class": "20-249 unsplit"
+        },
+        "operation": "value",
+        "value": 2961.0,
+        "position": 5,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "2,961",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            17067.5
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-6",
+        "file": "results/stratum_accounts.csv",
+        "field": "eligible_records",
+        "query": {
+          "industry": "33",
+          "size_class": "20-99"
+        },
+        "operation": "value",
+        "value": 13654.0,
+        "position": 6,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "13,654",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            17067.5
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-7",
+        "file": "results/stratum_accounts.csv",
+        "field": "eligible_records",
+        "query": {
+          "industry": "33",
+          "size_class": "100-249"
+        },
+        "operation": "value",
+        "value": 6122.0,
+        "position": 7,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "6,122",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            17067.5
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-8",
+        "file": "results/stratum_accounts.csv",
+        "field": "eligible_records",
+        "query": {
+          "industry": "33",
+          "size_class": "20-249 unsplit"
+        },
+        "operation": "value",
+        "value": 3814.0,
+        "position": 8,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "3,814",
+        "axis_points": {
+          "left": 146.88000000000002,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            17067.5
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-9",
+        "file": "results/stratum_accounts.csv",
+        "field": "unavailable_records",
+        "query": {
+          "industry": "31",
+          "size_class": "20-99"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 0,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            13.75
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-10",
+        "file": "results/stratum_accounts.csv",
+        "field": "unavailable_records",
+        "query": {
+          "industry": "31",
+          "size_class": "100-249"
+        },
+        "operation": "value",
+        "value": 1.0,
+        "position": 1,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "1",
+        "axis_points": {
+          "left": 551.232,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            13.75
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-11",
+        "file": "results/stratum_accounts.csv",
+        "field": "unavailable_records",
+        "query": {
+          "industry": "31",
+          "size_class": "20-249 unsplit"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 2,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            13.75
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-12",
+        "file": "results/stratum_accounts.csv",
+        "field": "unavailable_records",
+        "query": {
+          "industry": "32",
+          "size_class": "20-99"
+        },
+        "operation": "value",
+        "value": 11.0,
+        "position": 3,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "11",
+        "axis_points": {
+          "left": 551.232,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            13.75
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-13",
+        "file": "results/stratum_accounts.csv",
+        "field": "unavailable_records",
+        "query": {
+          "industry": "32",
+          "size_class": "100-249"
+        },
+        "operation": "value",
+        "value": 2.0,
+        "position": 4,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "2",
+        "axis_points": {
+          "left": 551.232,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            13.75
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-14",
+        "file": "results/stratum_accounts.csv",
+        "field": "unavailable_records",
+        "query": {
+          "industry": "32",
+          "size_class": "20-249 unsplit"
+        },
+        "operation": "value",
+        "value": 1.0,
+        "position": 5,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "1",
+        "axis_points": {
+          "left": 551.232,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            13.75
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-15",
+        "file": "results/stratum_accounts.csv",
+        "field": "unavailable_records",
+        "query": {
+          "industry": "33",
+          "size_class": "20-99"
+        },
+        "operation": "value",
+        "value": 2.0,
+        "position": 6,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "2",
+        "axis_points": {
+          "left": 551.232,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            13.75
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-16",
+        "file": "results/stratum_accounts.csv",
+        "field": "unavailable_records",
+        "query": {
+          "industry": "33",
+          "size_class": "100-249"
+        },
+        "operation": "value",
+        "value": 2.0,
+        "position": 7,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "2",
+        "axis_points": {
+          "left": 551.232,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            13.75
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-2-17",
+        "file": "results/stratum_accounts.csv",
+        "field": "unavailable_records",
+        "query": {
+          "industry": "33",
+          "size_class": "20-249 unsplit"
+        },
+        "operation": "value",
+        "value": 0.0,
+        "position": 8,
+        "thickness": 0.6,
+        "orientation": "horizontal",
+        "label": "0",
+        "axis_points": {
+          "left": 551.232,
+          "top": 115.91999999999999,
+          "width": 269.5679999999999,
+          "height": 322.56,
+          "xlim": [
+            0.0,
+            13.75
+          ],
+          "ylim": [
+            8.73,
+            -0.7300000000000001
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "53b5b6e60d21468fe1d5d306335a91b168648c966ff40b1092f93f1e4f5163e7",
+      "svg": "a59c549b76a173b44257767bb50e0cc98a22d534f7518c4f619d2f7a2e07ade4",
+      "pdf": "3010c8ed98bb7a106b008260d54ef8b82fcc74e6e7f1b8115673ad46914a5536"
+    }
+  }
+]

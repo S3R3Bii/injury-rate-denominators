@@ -1,0 +1,24 @@
+{
+  "national_rows": 400288,
+  "cohort_rows": 46530,
+  "sufficient_cells": 45074,
+  "national_accounts": {
+    "wrong_year": 0,
+    "malformed_industry": 0,
+    "other_industry": 337975,
+    "other_size": 15783,
+    "missing_identity": 0,
+    "duplicate_identity": 0,
+    "unknown_counts": 0,
+    "inconsistent_counts": 0,
+    "unknown_flag": 0,
+    "inconsistent_flag": 0,
+    "unknown_exposure": 0,
+    "nonpositive_exposure": 19,
+    "eligible": 46511
+  },
+  "duplicate_record_key_groups": 0,
+  "duplicate_establishment_key_groups": 0,
+  "source_sha256": "9ea2ee5d7265cddf753d22633af17d4aaba4ab81629341462a8c9912d19a99fc",
+  "source_meaning": "One current posted 2025 summary file;within-file identity defense only,no cross-year identity or prediction-time availability."
+}

@@ -1,0 +1,11 @@
+{
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "public_files": {
+    "paper/main.tex": "40993a9eaa46888d1782a9e4180fd1fcb4eaad3a8e881698a04a8e637af9cd14",
+    "paper/manuscript.pdf": "f4d99cd760dcfe99a380a7ec2584362cd62879de43b81af14ca99113dc100be1",
+    "paper/images/exposure_concentration.pdf": "e76cfcdaeeff15244cdd96d3c171dd090d7cbb0b7ead58a728ee604b1dde8fe0",
+    "paper/images/smoothing_sensitivity.pdf": "7502ededb60583c7df47b469c6d74f0c0e7b67c116d09f256f25344b100c1076",
+    "paper/images/source_denominators.pdf": "3010c8ed98bb7a106b008260d54ef8b82fcc74e6e7f1b8115673ad46914a5536"
+  }
+}

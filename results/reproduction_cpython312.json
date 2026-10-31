@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "python": "3.12.14",
+  "reproduced_files": [
+    "stratum_accounts.csv",
+    "sensitivity_accounts.csv",
+    "cell_sensitivities.csv.gz",
+    "zero_count_bounds.csv.gz",
+    "summary.json",
+    "exercise.json"
+  ],
+  "unchanged_source_files": 6,
+  "native_redownload": false,
+  "scope": "Frozen minimal current source replay, not independent reacquisition or original-vintage evidence.",
+  "checkout_head": "ee9eabe474e1070e2f6cdba1399be925d31e961d",
+  "full_history": true
+}

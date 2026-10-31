@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "finite_conditions": 40,
+  "complete_top_k_cases": 4,
+  "expanded_records": 46511,
+  "method": "Independent SQLite record expansion and exact Fraction accounting,no production imports",
+  "diagnostic_sha256": {
+    "exposure_concentration.csv": "1e798dae5ab96d0bc1311392d61c1281a6c34ad737f585d1f4df5b4b809fb591",
+    "exposure_diagnostic.json": "342643e4b1d6bc3b99d493fbcf70560be5b2a693db789f979759e580468f3931"
+  },
+  "scope": "Retrospective exposure concentration;does not validate an alternative cleaned source or forecasting model."
+}

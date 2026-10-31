@@ -1,0 +1,19 @@
+{
+  "timestamp_utc": "2026-10-31T04:35:30.542076+00:00",
+  "pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "manuscript_sha256": "f4d99cd760dcfe99a380a7ec2584362cd62879de43b81af14ca99113dc100be1",
+  "reviewed_figure_png_sha256": {
+    "figures/exposure_concentration.png": "cd5fe5335cc981888f627c23ddd1c75073172b8adde5443860b7b824a4418451",
+    "figures/smoothing_sensitivity.png": "d1ee110f4232edd5b4690584429923e2832f31b17704d89c45c6f85c84bdc5aa",
+    "figures/source_denominators.png": "53b5b6e60d21468fe1d5d306335a91b168648c966ff40b1092f93f1e4f5163e7"
+  },
+  "method": "All six current rendered100-dpi pages and all three original figure PNGs visually inspected. Prior smoothing-title/legend overlap and one TeX overfull line preserved privately and corrected; fresh final renders inspected.",
+  "findings": "PASS: readable hierarchy,tables,units,stratum labels,all top-k cases,zero accounts,scope and limitations;no visible clipping or overlap in current version.No accessibility conformance claim."
+}

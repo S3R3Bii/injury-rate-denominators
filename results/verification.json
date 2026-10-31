@@ -1,0 +1,23 @@
+{
+  "status": "PASS_FINITE_LOCAL_CHECKS",
+  "native_source_conditions": 445371,
+  "saved_source_conditions": 315540,
+  "independent_analysis_conditions": 1004148,
+  "diagnostic_conditions": 40,
+  "authored_fixture_methods": 31,
+  "original_frozen_dependencies": 21,
+  "postanalysis_packaging_amended_dependencies": 1,
+  "result_sha256": {
+    "stratum_accounts.csv": "f0fd7dd5528d93077175cf5a623cdede29cca1ff365e2b7a9b856111633d80db",
+    "sensitivity_accounts.csv": "c536892fa090f06f0e8282d8c7fb0a56ca429d667555facfde69ec82f1a7733b",
+    "cell_sensitivities.csv.gz": "109b5374b925d61d3b55a128e9bec233ae95cc3cc8df10fb987e2131e3090fbc",
+    "zero_count_bounds.csv.gz": "64b60415a42195c56b0accc1645225a6a3b8f3cfcdfcae280248de2d3f36c2dd",
+    "summary.json": "e27ddf4b7165ea5cdd4f3b7aef9ce1e246d321d4cb8d559efdff6c36feeba10d",
+    "exercise.json": "7380174e7b05f9ee77c47802c025b0dd2bb194670be6391f92572fdfefbae2fd"
+  },
+  "diagnostic_sha256": {
+    "exposure_concentration.csv": "1e798dae5ab96d0bc1311392d61c1281a6c34ad737f585d1f4df5b4b809fb591",
+    "exposure_diagnostic.json": "342643e4b1d6bc3b99d493fbcf70560be5b2a693db789f979759e580468f3931"
+  },
+  "scope": "Complete submitted source accounts and declared descriptive sensitivities;exposure concentration explicitly retrospective,no future accuracy or source-truth claim."
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "request": {
+      "purpose": "reported_stratum_account",
+      "denominator": "reported_positive_hours",
+      "industry": "31",
+      "size_class": "20-99"
+    },
+    "response": {
+      "status": "ACCEPTED_QUALIFIED",
+      "industry": "31",
+      "size_class": "20-99",
+      "eligible_records": "3571",
+      "unavailable_records": "0",
+      "reported_cases": "6662",
+      "reported_hours": "5168131681",
+      "reported_rate_per100FTE": "1332400000/5168131681",
+      "future_accuracy": "UNESTABLISHED",
+      "workplace_safety": "UNESTABLISHED",
+      "qualification": "Current submitted summary accounts,not source accuracy or representative worker risk;size uses maximum employees."
+    }
+  },
+  {
+    "request": {
+      "purpose": "reported_stratum_account",
+      "denominator": "reported_positive_hours",
+      "industry": "33",
+      "size_class": "100-249"
+    },
+    "response": {
+      "status": "ACCEPTED_QUALIFIED",
+      "industry": "33",
+      "size_class": "100-249",
+      "eligible_records": "6122",
+      "unavailable_records": "2",
+      "reported_cases": "26366",
+      "reported_hours": "2441435641",
+      "reported_rate_per100FTE": "5273200000/2441435641",
+      "future_accuracy": "UNESTABLISHED",
+      "workplace_safety": "UNESTABLISHED",
+      "qualification": "Current submitted summary accounts,not source accuracy or representative worker risk;size uses maximum employees."
+    }
+  },
+  {
+    "request": {
+      "purpose": "workplace_safety_ranking",
+      "industry": "31",
+      "size_class": "20-99",
+      "denominator": "reported_positive_hours"
+    },
+    "response": {
+      "status": "REJECTED",
+      "reason": "no safety,legal,worker eligibility or forecast inference"
+    }
+  },
+  {
+    "request": {
+      "purpose": "legal_fault",
+      "industry": "31",
+      "size_class": "20-99",
+      "denominator": "reported_positive_hours"
+    },
+    "response": {
+      "status": "REJECTED",
+      "reason": "no safety,legal,worker eligibility or forecast inference"
+    }
+  },
+  {
+    "request": {
+      "purpose": "worker_eligibility",
+      "industry": "31",
+      "size_class": "20-99",
+      "denominator": "reported_positive_hours"
+    },
+    "response": {
+      "status": "REJECTED",
+      "reason": "no safety,legal,worker eligibility or forecast inference"
+    }
+  },
+  {
+    "request": {
+      "purpose": "future_risk",
+      "industry": "31",
+      "size_class": "20-99",
+      "denominator": "reported_positive_hours"
+    },
+    "response": {
+      "status": "REJECTED",
+      "reason": "no safety,legal,worker eligibility or forecast inference"
+    }
+  },
+  {
+    "request": {
+      "purpose": "reported_stratum_account",
+      "industry": "31",
+      "size_class": "20-99",
+      "denominator": "employee_count"
+    },
+    "response": {
+      "status": "REJECTED",
+      "reason": "retain reported known positive exposure"
+    }
+  }
+]

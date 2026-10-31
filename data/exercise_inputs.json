@@ -1,0 +1,44 @@
+[
+  {
+    "purpose": "reported_stratum_account",
+    "denominator": "reported_positive_hours",
+    "industry": "31",
+    "size_class": "20-99"
+  },
+  {
+    "purpose": "reported_stratum_account",
+    "denominator": "reported_positive_hours",
+    "industry": "33",
+    "size_class": "100-249"
+  },
+  {
+    "purpose": "workplace_safety_ranking",
+    "industry": "31",
+    "size_class": "20-99",
+    "denominator": "reported_positive_hours"
+  },
+  {
+    "purpose": "legal_fault",
+    "industry": "31",
+    "size_class": "20-99",
+    "denominator": "reported_positive_hours"
+  },
+  {
+    "purpose": "worker_eligibility",
+    "industry": "31",
+    "size_class": "20-99",
+    "denominator": "reported_positive_hours"
+  },
+  {
+    "purpose": "future_risk",
+    "industry": "31",
+    "size_class": "20-99",
+    "denominator": "reported_positive_hours"
+  },
+  {
+    "purpose": "reported_stratum_account",
+    "industry": "31",
+    "size_class": "20-99",
+    "denominator": "employee_count"
+  }
+]
