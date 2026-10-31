@@ -28,6 +28,10 @@ Primary diagnostic: count records whose rate exceeds twice the same-cohort poole
 
 As a separate precision illustration under a homogeneous independent Poisson process, report the one-sided95% upper rate for zero events, -log(0.05)/t, summarized by fixed strata. This is an assumption-based zero-count bound, not an empirically calibrated safety interval. No interval coverage, future accuracy, causal effect, general population rate or superiority claim. No tuning/search, random split or hidden holdout. Original year-held-out predictive assessment remains unexecuted; current post-year reported exposure and cases cannot be called prediction-time features.
 
+## Numerical representation
+
+Rates,posterior means,exposure weights,threshold comparisons and counts use exact Fraction arithmetic. Per-cell absolute rate movement is rounded to12 decimal places,half-even,then weighted and summed exactly as Decimal integers at that scale. Its aggregate rounding error is bounded by eligible records times0.5e-12 rate units. Zero-count upper bounds use60-digit Decimal logarithms and12-place half-even rounding. These representation choices are fixed before comparison;they are not empirically tuned tolerances.
+
 ## Implementation and independent checks
 
 Public sufficient cells contain only industry prefix, size class, source-account state, exact eligible count/exposure and cell multiplicity, with source hashes and complete account totals. Native source stays private. Independently reconstruct projection with a pandas C parser and SQLite key multiplicities; compare all cells/accounts to csv/Decimal production ingestion. Check complete fixed cells, sums, units, fractions, missingness and disjoint accounts. Before comparing rates, commit a freeze of actual source/method/test dependencies.
